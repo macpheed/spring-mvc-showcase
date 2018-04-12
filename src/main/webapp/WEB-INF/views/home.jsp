@@ -16,7 +16,7 @@
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
-<h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
+<h1><a href="<c:url value="/" />">DAVE's_Amazing-spring-mvc-showcase</a></h1>
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
@@ -40,10 +40,10 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        I am adding this extra line
+                        This is a changed line
                  </p>
 <p>
-This is the second line to be added
+This is the second changed line
 </p>
 		<ul>
 			<li>
